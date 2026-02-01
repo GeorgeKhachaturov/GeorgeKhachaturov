@@ -12,56 +12,6 @@ I enjoy turning ideas into real products — from backend logic to polished fron
 
 I’m actively looking for **software engineering internships** where I can learn from experienced engineers, contribute meaningful code, and grow fast.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-- JavaScript (ES6+)
-- Python
-
-**Frontend**
-- HTML5
-- CSS3
-- Responsive Design
-- React.js (currently learning)
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-
-**Databases**
-- MongoDB
-
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Mongoose
-
----
-
-### 🎓 Activities & Leadership
-
-- **United Way Student Club** – President  
-  Organized events, led a team, and drove community service initiatives.  
-
-- **Varsity Wrestling Athlete**  
-  Discipline, teamwork, and perseverance through competitive athletics.  
-
----
-
-### 🌱 Currently Learning
-
-- **React.js & modern front-end frameworks**
-- Java Language 
-- Data Structures & Algorithms  
-- Backend architecture best practices  
-- Writing cleaner, more maintainable code  
-- Interview-style problem solving
-
----
-
 ### 🤝 Open To
 
 - Software Engineering Internships  
